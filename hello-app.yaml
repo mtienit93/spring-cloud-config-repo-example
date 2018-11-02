@@ -6,4 +6,4 @@ spring:
     datasource:
         url: jdbc:mysql://localhost:3306/testdb
         username: root
-        password: root
+        password: AQAlw9xo4udcbfgCWD9SYS+IJNbJG9X5eaZYq+rLBgKUX0AgTHQ3SmZiUkT9kDCL1hJR7D0AV5limNExO2XWmMO5BN2q2VOK0mXgdhnNsxP0kZtue1U9LQYyzRDV+3/YhO7jwo7TUACUithdtlwpU4tq8ekHM+Q98KftwCmsonC5U/FawAHfKbsCOY6ziXi9DCPA1TzV9v8ukqZJihH565ZzVPgfGy39hmUW5BB5LMEwvmG0cDERA0UqFy058k5c3NITniac3KJ6nlsvfVQhRaj25CbVWSfGRkEzAKf5CB0kcuKcHn6VTDqeKKA2/QN3Otlk7U0lshKvuAwcPUjvgaBH+6715gsZicJjsaDQYo79Mw3qahzg0iVmo9hxjX78nTM=
